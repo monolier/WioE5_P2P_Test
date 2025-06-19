@@ -1,0 +1,22 @@
+# STM32CubeIDE generated
+.metadata
+Debug/
+Release/
+*.launch
+*.specs
+*.init
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+
+# Other
+.mxproject
+*~
+.DS_Store
